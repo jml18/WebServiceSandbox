@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ep_base_url">tcss450.herokuapp.com</string>
-    <string name="ep_hello">https://tcss450.herokuapp.com/hello</string>
+    <string name="ep_base_url">jml0608-lab4-backend.herokuapp.com</string>
+    <string name="ep_hello">https://jml0608-lab4-backend.herokuapp.com/hello</string>
     <string name="ep_hello_args">params</string>
     <string name="ep_hello_delay">wait</string>
+    <string name="ep_sql">demosql</string>
 </resources>
